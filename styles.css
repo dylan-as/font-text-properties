@@ -29,7 +29,7 @@
 
 
 body{
-	font-family: var(--body-fonts);
+	font-family: var(--body);
 	line-height: 1.5;
 	font-size: 1.1rem;
 	color: var(--dk-gray);
